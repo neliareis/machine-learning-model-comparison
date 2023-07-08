@@ -1,0 +1,5 @@
+Random Forest,Support Vector Machine,Logistic Regression,Decision Tree
+Random Forest,0.890625
+Support Vector Machine,0.6458333333333334
+Logistic Regression,0.6145833333333334
+Decision Tree,0.890625
